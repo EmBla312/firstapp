@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EmBla312/firstapp/issues"
   },
-  "homepage": "https://github.com/EmBla312/firstapp#readme"
+  "homepage": "https://github.com/EmBla312/firstapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
