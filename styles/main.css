@@ -1,0 +1,15 @@
+table {
+	width: 100%;
+	table-layout: fixed;
+	border-collapse: collapse;
+}
+.table-layout { display: table; }
+.caption {
+	display: table-caption;
+	text-align: center;
+}
+.row { display: table-row; }
+.row > * {
+	display: table-cell;
+	padding: 3px;
+}
