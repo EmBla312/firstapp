@@ -1,0 +1,35 @@
+html {
+    background-color: #1B60A1;
+    color: white;
+}
+#login-page-container {
+    background-color: #0B355B;
+    padding: 10px;
+    border-radius: 10%;
+}
+.res-block {
+    background-color: white;
+    color: black;
+    display: block;
+    padding: 10px 80px;
+    border-radius: 10%;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 5px;
+}
+button {
+    border: 0;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 10px;
+}

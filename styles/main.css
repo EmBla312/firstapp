@@ -1,7 +1,21 @@
+/* {
+	outline: 1px solid red;
+}*/
+html {
+	margin: 0;
+	padding: 0;
+	font-family: "Tahoma", Verdana, Geneva, Tahoma, sans-serif;
+}
+section {
+	display: block;
+	text-align: center;
+}
+article {
+	display: block;
+}
 table {
 	width: 100%;
-	table-layout: fixed;
-	border-collapse: collapse;
+	table-layout: auto;
 }
 .table-layout { display: table; }
 .caption {
